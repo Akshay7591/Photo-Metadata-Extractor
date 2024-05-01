@@ -4,7 +4,7 @@ It allows information to be transported with an image file, in a way that can be
 
 This code allows you to extract all this metadata from a photo.
 
-This code can extract the following from a photo-
+This code can extract the following from a photo- <br>
 DateTimeOriginal      
 DateTimeDigitized     
 ComponentsConfiguration 
